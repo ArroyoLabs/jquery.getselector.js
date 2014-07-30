@@ -1,4 +1,4 @@
--jquery.getselector.js
+jquery.getselector.js
 ======================
 
  jquery get selector plugin
