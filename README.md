@@ -1,4 +1,6 @@
 jquery.getselector.js
 ======================
 
- jquery get selector plugin
+ jQuery getSelector plugin. Returns the CSS selector string for a provided element.
+
+ Usage: $('#foo').getSelector();
